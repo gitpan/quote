@@ -1,0 +1,8 @@
+--- #YAML:1.0
+module_name: quote
+dist_version_from: distribution/quote.cgi
+installdirs: site
+requires:
+distribution_type: script
+license: perl
+dist_abstract: Random quote displayer
